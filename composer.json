@@ -1,7 +1,7 @@
 {
-  "name": "drupal/concedra_theme",
+  "name": "concedra/drupal-theme",
   "type": "drupal-theme",
-  "description": "Base concedra theme based on Zurb Foundation 6.x.",
+  "description": "Concedra theme based on Zurb Foundation 6.x.",
   "keywords": ["Drupal"],
   "license": "GPL-2.0+",
   "homepage": "http://drupal.org/project/concedra",
