@@ -1,0 +1,20 @@
+{
+  "name": "drupal/concedra_theme",
+  "type": "drupal-theme",
+  "description": "Base concedra theme based on Zurb Foundation 6.x.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "http://drupal.org/project/concedra",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Concedra",
+      "homepage": "https://www.drupal.org/project/concedra",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "http://drupal.org/project/issues/concedra_theme",
+    "source": "https://cgit.drupalcode.org/concedra_theme"
+  }
+}

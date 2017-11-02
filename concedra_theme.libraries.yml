@@ -1,0 +1,7 @@
+global:
+  version: VERSION
+  css:
+    base:
+      css/concedra_theme.css: {}
+  js:
+    js/concedra_theme.js: {}
