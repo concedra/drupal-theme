@@ -16,5 +16,8 @@
   "support": {
     "issues": "http://drupal.org/project/issues/concedra_theme",
     "source": "https://cgit.drupalcode.org/concedra_theme"
+  },
+  "require": {
+    "drupal/zurb_foundation": "~6.0"
   }
 }
