@@ -1,5 +1,5 @@
 {
-  "name": "concedra/drupal-theme",
+  "name": "drupal/concedra_theme",
   "type": "drupal-theme",
   "description": "Concedra theme based on Zurb Foundation 6.x.",
   "keywords": ["Drupal"],
